@@ -1,0 +1,22 @@
+.Person {
+    width:600px;
+    margin:16px auto;
+    margin:1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding:16px;
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* @media (min-width:500px) {
+    .Person {
+        width: 450px;
+    }
+} */
